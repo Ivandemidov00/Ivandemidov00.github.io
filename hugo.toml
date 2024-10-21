@@ -1,6 +1,6 @@
-baseURL = 'https://ivandemidov00.github.io/'
+baseURL = 'https://ivan-demidov.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My site 😜'
 
 [module]
 [[module.imports]]
